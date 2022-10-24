@@ -5,25 +5,13 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Huinko&row=2&column=3&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 ## STACK
 ### Main stack
-![Python](https://img.shields.io/badge/-Python-000??style=for-the-badge&logo=Python)
-![Python](https://img.shields.io/badge/-Django-000??style=for-the-badge&logo=django)
-![Python](https://img.shields.io/badge/-Flask-000??style=for-the-badge&logo=flask)
-![Python](https://img.shields.io/badge/-Celery-000??style=for-the-badge&logo=celery)
-![Python](https://img.shields.io/badge/-Redis-000??style=for-the-badge&logo=redis)
-![Python](https://img.shields.io/badge/-RabbitMQ-000??style=for-the-badge&logo=rabbitmq)
-![Python](https://img.shields.io/badge/-Bots-000??style=for-the-badge&logo=telegram)
-![Python](https://img.shields.io/badge/-Bots-000??style=for-the-badge&logo=vk)
-
-![Python](https://img.shields.io/badge/-SQL-000??style=for-the-badge&logo=mysql)
-![Python](https://img.shields.io/badge/-SQL-000??style=for-the-badge&logo=postgresql)
-![Python](https://img.shields.io/badge/-SQL-000??style=for-the-badge&logo=sqlite)
-
-### Secondary stack
-![Python](https://img.shields.io/badge/-Golang-000??style=for-the-badge&logo=go)
-
 ![Python](https://img.shields.io/badge/-JS-000??style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/-React-000??style=for-the-badge&logo=React)
 ![Python](https://img.shields.io/badge/-Jquery-000??style=for-the-badge&logo=jquery)
 ![Python](https://img.shields.io/badge/-HTML-000??style=for-the-badge&logo=html5)
+
+### Secondary stack
+![Python](https://img.shields.io/badge/-Python-000??style=for-the-badge&logo=Python)
 
 ![Python](https://img.shields.io/badge/-Dart-000??style=for-the-badge&logo=dart)
 ![Python](https://img.shields.io/badge/-Flutter-000??style=for-the-badge&logo=Flutter)
