@@ -1,6 +1,10 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huinko&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+# Егорик
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Huinko&row=2&column=3&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huinko&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huinko&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Huinko&row=1&column=3&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 ## STACK
 ### Main stack
 ![Python](https://img.shields.io/badge/-JS-000??style=for-the-badge&logo=javascript)
