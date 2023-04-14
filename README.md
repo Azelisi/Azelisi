@@ -15,11 +15,8 @@
 ![Python](https://img.shields.io/badge/-Python-000??style=for-the-badge&logo=Python)
 
 ![Python](https://img.shields.io/badge/-CSS-000??style=for-the-badge&logo=css3)
-![Python](https://img.shields.io/badge/-Jquery-000??style=for-the-badge&logo=jquery)
 ![Python](https://img.shields.io/badge/-Bootstrap-000??style=for-the-badge&logo=bootstrap)
 ![Python](https://img.shields.io/badge/-Gulp-000??style=for-the-badge&logo=gulp)
-![Python](https://img.shields.io/badge/-Linux-000??style=for-the-badge&logo=linux)
-![Python](https://img.shields.io/badge/-Docker-000??style=for-the-badge&logo=docker)
 ![Python](https://img.shields.io/badge/-C%23-000??style=for-the-badge&logo=csharp)
 
 ##### Visitors
