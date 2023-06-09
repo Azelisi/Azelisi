@@ -1,7 +1,5 @@
 # Егорик
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Huinko&row=1&column=4&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 ## STACK
 ### Main stack
 ![Python](https://img.shields.io/badge/-JS-000??style=for-the-badge&logo=javascript)
