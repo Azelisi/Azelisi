@@ -1,4 +1,4 @@
-# Егорик
+# Egor
 
 ## Main stack
 ![Python](https://img.shields.io/badge/-JS-000??style=for-the-badge&logo=javascript)
